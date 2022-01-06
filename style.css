@@ -69,9 +69,19 @@ label {
   border-radius: 6px;
   border: 0;
   border: 1px solid #939393;
+  margin-bottom: 1.4rem;
 }
 
 .email:focus {
   border: 3px solid #7b63ea;
   background-color: #e7e7e7;
+}
+
+.output {
+  font-size: 1.6rem;
+}
+
+.icon-exclamation {
+  margin-left: 20px;
+  margin-right: 10px;
 }
