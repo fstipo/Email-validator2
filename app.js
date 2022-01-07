@@ -14,3 +14,5 @@ emailEl.addEventListener('keyup', (e) => {
   emailLabelEl.style.display = 'none';
   emailEl.style.border = '3px solid red';
 });
+
+// "^([a-zA-Z0-9_.-])+@(([a-zA-Z0-9-])+.)+([a-zA-Z0-9]{2,4})+$"
